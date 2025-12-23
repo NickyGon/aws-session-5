@@ -31,7 +31,7 @@ jobs:
         run: |
           sam build
           sam deploy \
-              --stack-name s3-grayscale-newstack29040 \
+              --stack-name s3-grayscale-newstack2904 \
               --region us-east-1 \
               --capabilities CAPABILITY_IAM \
               --resolve-s3 \

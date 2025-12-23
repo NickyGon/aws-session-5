@@ -1,4 +1,4 @@
-name: Deploy Serverless Functtion
+name: Deploy Serverless Lambda Functtion
 on:
   push:
     branches: [ "main" ]
